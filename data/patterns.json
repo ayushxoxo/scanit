@@ -1,0 +1,10 @@
+{
+  "patterns": [
+    {"vendor":"Tenda","match":["/goform/","Tenda","tenda"]},
+    {"vendor":"D-Link","match":["/cgi-bin/webproc","HNAP1","D-Link"]},
+    {"vendor":"TP-Link","match":["TP-LINK","TP-LINK Wireless","tplink"]},
+    {"vendor":"Netgear","match":["NETGEAR","netgear"]},
+    {"vendor":"totolink","match":["totolink","Totolink"]},
+    {"vendor":"Digisol","match":["digisol","DIGISOL"]}
+  ]
+}

@@ -1,0 +1,7 @@
+# vendor_hint,model_hint,support,notes
+TP-Link,Archer C7,supported,Archer C7 v5 (Atheros)
+Tenda,,partial,Tenda family - verify model
+D-Link,,partial,D-Link family signatures (HNAP)
+Netgear,,partial,Netgear family - check model
+TOTOLINK,,partial,Totolink family
+Digisol,,partial,Digisol family
