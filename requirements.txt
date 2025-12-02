@@ -1,0 +1,2 @@
+requests>=2.0
+pysnmp>=4.4    # optional; only if you want SNMP probing
